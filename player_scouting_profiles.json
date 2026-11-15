@@ -1,0 +1,102 @@
+{
+  "Tim David": {
+    "role": "Middle-order power finisher",
+    "squad_fit": "A potential source of late-innings hitting and boundary acceleration. His positive pressure-adjusted batting result makes him worth evaluating for a finishing role.",
+    "caution": "Death-over opportunities dominate the pressure sample. Performance against specific bowling types and acquisition feasibility require separate assessment."
+  },
+  "Suryakumar Yadav": {
+    "role": "Innovative middle-order stroke-maker",
+    "squad_fit": "Offers an attacking middle-order batting profile that could help maintain scoring momentum under demanding match conditions.",
+    "caution": "Historical contextual outperformance does not establish future scoring rates or player availability."
+  },
+  "Tristan Stubbs": {
+    "role": "Middle-order power hitter",
+    "squad_fit": "A potential middle-order acceleration option whose historical pressure performance supports further evaluation for high-demand overs.",
+    "caution": "Batting-position suitability and performance against specific bowling styles need additional analysis."
+  },
+  "Shashank Singh": {
+    "role": "Indian middle-order finisher",
+    "squad_fit": "Could offer domestic batting depth in finishing situations, subject to squad requirements and his demonstrated pressure-phase contribution.",
+    "caution": "The pressure metric does not independently measure finishing reliability in every match."
+  },
+  "Shreyas Iyer": {
+    "role": "Middle-order batting anchor and accelerator",
+    "squad_fit": "Provides a possible middle-order structure option, with historical evidence of scoring above contextual expectations.",
+    "caution": "The analysis does not establish leadership impact or tactical adaptability."
+  },
+  "Romario Shepherd": {
+    "role": "Pace-bowling all-rounder and power hitter",
+    "squad_fit": "Could provide late-order hitting alongside a secondary pace-bowling option, depending on RR's squad balance.",
+    "caution": "This batting ranking does not evaluate his bowling contribution or overall all-round value."
+  },
+  "Rinku Singh": {
+    "role": "Left-handed middle-order finisher",
+    "squad_fit": "Offers a potential left-handed finishing option for pressure situations, supported by his positive contextual batting result.",
+    "caution": "A positive aggregate does not guarantee consistent performance in individual chases."
+  },
+  "Liam Livingstone": {
+    "role": "Power-hitting batting all-rounder",
+    "squad_fit": "Could add aggressive middle-order hitting and flexible team composition options.",
+    "caution": "His additional bowling value is not included in the batting pressure score."
+  },
+  "Rishabh Pant": {
+    "role": "Left-handed wicketkeeper-batter",
+    "squad_fit": "Could provide left-handed batting variety and wicketkeeping flexibility, while his positive pressure-adjusted result supports further batting evaluation.",
+    "caution": "Wicketkeeping quality, fitness, and squad requirements are outside this batting model."
+  },
+  "Heinrich Klaasen": {
+    "role": "Middle-order power hitter and wicketkeeper",
+    "squad_fit": "Offers a potential high-impact middle-order batting profile, particularly for phases requiring rapid scoring.",
+    "caution": "The analysis does not measure wicketkeeping value or guarantee future finishing output."
+  },
+  "Rashid Khan": {
+    "role": "Attacking leg-spin bowler",
+    "squad_fit": "Could provide a frontline spin option for controlling scoring and creating wicket-taking opportunities in demanding situations.",
+    "caution": "Phase-specific deployment and availability require separate evaluation."
+  },
+  "Sunil Narine": {
+    "role": "Mystery-spin control bowler",
+    "squad_fit": "His strong IPL pressure-run prevention result supports consideration as a spin-control option.",
+    "caution": "Batting contributions and broader all-round value are not captured by this bowling score."
+  },
+  "Jasprit Bumrah": {
+    "role": "High-control fast bowler",
+    "squad_fit": "Could provide a premium pace option for high-pressure overs, supported by positive IPL contextual run prevention.",
+    "caution": "Workload, fitness, and acquisition feasibility are outside the model."
+  },
+  "Wanindu Hasaranga": {
+    "role": "Attacking wrist-spin bowler",
+    "squad_fit": "Could strengthen wicket-taking spin options while providing additional tactical variety.",
+    "caution": "A smaller IPL pressure sample calls for careful comparison with higher-volume bowlers."
+  },
+  "Matheesha Pathirana": {
+    "role": "Death-over specialist fast bowler",
+    "squad_fit": "Offers a potential specialist pace option for demanding late-innings overs.",
+    "caution": "Historical pressure prevention does not guarantee execution in future death overs."
+  },
+  "Maheesh Theekshana": {
+    "role": "Mystery-spin bowler",
+    "squad_fit": "Could add tactical spin variety and a potential run-control option.",
+    "caution": "Suitability for specific bowling phases requires further matchup analysis."
+  },
+  "Kuldeep Yadav": {
+    "role": "Attacking left-arm wrist-spinner",
+    "squad_fit": "Could add wicket-taking spin variety and an alternative bowling angle.",
+    "caution": "His ranking stability is lower than that of several other shortlisted bowlers."
+  },
+  "Noor Ahmad": {
+    "role": "Left-arm wrist-spin bowler",
+    "squad_fit": "Could strengthen spin variety and provide a different attacking angle against batters.",
+    "caution": "The IPL pressure sample is smaller than those of several senior shortlisted bowlers."
+  },
+  "Yuzvendra Chahal": {
+    "role": "Attacking leg-spin bowler",
+    "squad_fit": "Could provide an experienced leg-spin option for wicket-taking and tactical variation.",
+    "caution": "The model measures contextual pressure performance, not overall career quality."
+  },
+  "Josh Hazlewood": {
+    "role": "Line-and-length fast bowler",
+    "squad_fit": "Could provide a disciplined pace-bowling option based on broader scouting judgment.",
+    "caution": "His IPL pressure-run prevention is negative in this sample. He is proposed at selection position #10 despite a calculated model rank of #13."
+  }
+}

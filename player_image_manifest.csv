@@ -1,0 +1,21 @@
+player_name,role,selection_rank,image_filename,image_available
+Tim David,Batter,1,tim_david.png,False
+Suryakumar Yadav,Batter,2,suryakumar_yadav.png,False
+Tristan Stubbs,Batter,3,tristan_stubbs.png,False
+Shashank Singh,Batter,4,shashank_singh.png,False
+Shreyas Iyer,Batter,5,shreyas_iyer.png,False
+Romario Shepherd,Batter,6,romario_shepherd.png,False
+Rinku Singh,Batter,7,rinku_singh.png,False
+Liam Livingstone,Batter,8,liam_livingstone.png,False
+Rishabh Pant,Batter,9,rishabh_pant.png,False
+Heinrich Klaasen,Batter,10,heinrich_klaasen.png,False
+Rashid Khan,Bowler,1,rashid_khan.png,False
+Sunil Narine,Bowler,2,sunil_narine.png,False
+Jasprit Bumrah,Bowler,3,jasprit_bumrah.png,False
+Wanindu Hasaranga,Bowler,4,wanindu_hasaranga.png,False
+Matheesha Pathirana,Bowler,5,matheesha_pathirana.png,False
+Maheesh Theekshana,Bowler,6,maheesh_theekshana.png,False
+Kuldeep Yadav,Bowler,7,kuldeep_yadav.png,False
+Noor Ahmad,Bowler,8,noor_ahmad.png,False
+Yuzvendra Chahal,Bowler,9,yuzvendra_chahal.png,False
+Josh Hazlewood,Bowler,10,josh_hazlewood.png,False
