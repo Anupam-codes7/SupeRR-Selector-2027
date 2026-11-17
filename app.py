@@ -479,7 +479,7 @@ fig.update_layout(
 
 st.plotly_chart(
     fig,
-    use_container_width=True,
+    width="stretch",
     config={"displayModeBar": False}
 )
 
@@ -673,7 +673,7 @@ fig_bowling.update_layout(
 
 st.plotly_chart(
     fig_bowling,
-    use_container_width=True,
+    width="stretch",
     config={
         "displayModeBar": False,
         "scrollZoom": False
@@ -845,7 +845,7 @@ fig_reliability.update_layout(
 
 st.plotly_chart(
     fig_reliability,
-    use_container_width=True,
+    width="stretch",
     config={
         "displayModeBar": False,
         "scrollZoom": False
@@ -1053,7 +1053,7 @@ fig_consistency.update_layout(
 
 st.plotly_chart(
     fig_consistency,
-    use_container_width=True,
+    width="stretch",
     config={
         "displayModeBar": False,
         "scrollZoom": False
@@ -1311,7 +1311,7 @@ fig_stability.update_layout(
 
 st.plotly_chart(
     fig_stability,
-    use_container_width=True,
+    width="stretch",
     config={
         "displayModeBar": False,
         "scrollZoom": False
@@ -1356,10 +1356,16 @@ within the top ten under every tested scenario.
 **Kuldeep Yadav** appears in the top ten in
 three of four scenarios.
 
-**Josh Hazlewood** appears in the top ten in
-two of four scenarios. His inclusion as our
-proposed tenth selection reflects a scouting
-judgment beyond the calculated IPL-aware ranking.
+**Varun Chakravarthy** does not enter the top ten
+under any of the four tested weighting scenarios.
+His calculated IPL-aware rank is No. 12, while
+his proposed selection position is No. 10.
+
+This judgment-based inclusion reflects stronger
+observed pressure-versus-usual improvement than
+Josh Hazlewood in IPL-only and combined-format
+analyses. The uncertainty is substantial, so this
+should not be interpreted as proven superiority.
 
 **What this means:** Rankings that remain strong
 under different reasonable assumptions provide
@@ -1524,7 +1530,7 @@ with left:
 
         st.image(
             str(player_image_path),
-            use_container_width=True
+            width="stretch"
         )
 
     else:
@@ -1740,14 +1746,17 @@ with right:
             )
         )
 
-        if selected_player == "Josh Hazlewood":
+        if selected_player == "Varun Chakravarthy":
 
             st.info(
-                "Scouting note: Hazlewood is proposed at "
-                "selection position #10, although his "
-                "calculated IPL-aware rank is #13. "
-                "This is a judgment-based inclusion, "
-                "not the model's tenth-ranked bowler."
+                "Scouting note: Varun Chakravarthy is proposed "
+                "at selection position #10, although his "
+                "calculated IPL-aware rank is #12. "
+                "This is a documented judgment-based override, "
+                "not the model's tenth-ranked result. "
+                "Historical pressure-performance comparisons "
+                "favor Varun on the selected descriptive measure, "
+                "but uncertainty remains substantial."
             )
 
 st.caption(
@@ -1996,11 +2005,15 @@ with st.expander(
     )
 
     st.warning(
-        "Josh Hazlewood is proposed at selection "
+        "Varun Chakravarthy is proposed at selection "
         "position #10 despite a calculated IPL-aware "
-        "rank of #13. His inclusion reflects broader "
-        "multi-season IPL scouting judgment, not "
-        "the model's tenth-ranked result."
+        "rank of #12. This documented judgment-based "
+        "override reflects stronger observed "
+        "pressure-versus-usual improvement than "
+        "Josh Hazlewood in IPL-only and combined-format "
+        "analyses. Bootstrap uncertainty remains "
+        "substantial, and this is not proof of "
+        "future superiority."
     )
 
 # ------------------------------------------------------------
